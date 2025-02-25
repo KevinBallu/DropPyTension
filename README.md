@@ -1,7 +1,7 @@
 # DropPyTension
 
 ## Description
-A small project to read drop images, extract drop parameters, and calculate interfacial tension without complex optimization (which makes its use quite straightforward). The interfacial tension measured has an uncertainty of about 1-3 mN/m depending on the measuring conditions.
+A small project to read drop images, extract drop parameters, and calculate interfacial tension without complex optimization (which makes its use and installation quite straightforwards). As a matter of fact, I started this project because I wasn't able to use the other available projects I found. The tradeoff for simplicity is an uncertainty of about 1-3 mN/m in the measured interfacial tention depending on the measurement conditions.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinBallu/DropPyTension/main/example/final_analysis.png" width="400">
